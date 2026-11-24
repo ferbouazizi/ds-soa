@@ -1,0 +1,15 @@
+# Light install: API, Q&A, harness, inspector and tests. No Docling models.
+pandas
+openpyxl
+pydantic>=2
+pytest
+fastapi
+uvicorn
+httpx
+python-multipart
+requests
+watchdog
+pdfplumber
+reportlab
+pypdfium2
+streamlit
